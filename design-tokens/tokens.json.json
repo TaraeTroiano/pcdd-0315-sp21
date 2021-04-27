@@ -1,0 +1,520 @@
+{
+  "colors" : [
+    {
+      "name" : "Black",
+      "value" : "#000000"
+    },
+    {
+      "name" : "White",
+      "value" : "#ffffff"
+    },
+    {
+      "name" : "OCHO Navy",
+      "value" : "#384483"
+    },
+    {
+      "name" : "OCHO Blue",
+      "value" : "#5977b3"
+    },
+    {
+      "name" : "OCHO Azure",
+      "value" : "#b4cae0"
+    },
+    {
+      "name" : "OCHO Gold",
+      "value" : "#f7d475"
+    },
+    {
+      "name" : "OCHO Tan",
+      "value" : "#d48049"
+    },
+    {
+      "name" : "OCHO Scarlet",
+      "value" : "#de3e47"
+    },
+    {
+      "name" : "Neutral Shade 900",
+      "value" : "#0d0d0c"
+    },
+    {
+      "name" : "Neutral Shade 900",
+      "value" : "#0d0d0c"
+    },
+    {
+      "name" : "Neutral Shade 800",
+      "value" : "#3b3a39"
+    },
+    {
+      "name" : "Neutral Shade 700",
+      "value" : "#696866"
+    },
+    {
+      "name" : "Neutral Tint 300",
+      "value" : "#9c9996"
+    },
+    {
+      "name" : "Neutral Tint 200",
+      "value" : "#c5c2be"
+    },
+    {
+      "name" : "Neutral Tint 200",
+      "value" : "#c5c2be"
+    },
+    {
+      "name" : "Neutral Tint 100",
+      "value" : "#e9e4dd"
+    },
+    {
+      "name" : "Neutral Tint 50",
+      "value" : "#f6f5f4"
+    },
+    {
+      "name" : "Navy Shade 950",
+      "value" : "#080420"
+    },
+    {
+      "name" : "Navy Shade 900",
+      "value" : "#0f073f"
+    },
+    {
+      "name" : "Navy Shade 800",
+      "value" : "#1d1b56"
+    },
+    {
+      "name" : "Navy Shade 700",
+      "value" : "#2a306c"
+    },
+    {
+      "name" : "Navy Tint 300",
+      "value" : "#707cb2"
+    },
+    {
+      "name" : "Navy Tint 200",
+      "value" : "#b0b8dd"
+    },
+    {
+      "name" : "Navy Tint 100",
+      "value" : "#e2e5f3"
+    },
+    {
+      "name" : "Navy Tint 50",
+      "value" : "#f2f5ff"
+    },
+    {
+      "name" : "Blue Shade 950",
+      "value" : "#081225"
+    },
+    {
+      "name" : "Blue Shade 900",
+      "value" : "#10244a"
+    },
+    {
+      "name" : "Blue Shade 800",
+      "value" : "#1d386d"
+    },
+    {
+      "name" : "Blue Shade 700",
+      "value" : "#335290"
+    },
+    {
+      "name" : "Blue Tint 300",
+      "value" : "#8fa7d6"
+    },
+    {
+      "name" : "Blue Tint 200",
+      "value" : "#beceee"
+    },
+    {
+      "name" : "Blue Tint 100",
+      "value" : "#e5eeff"
+    },
+    {
+      "name" : "Azure Shade 950",
+      "value" : "#112e43"
+    },
+    {
+      "name" : "Azure Shade 900",
+      "value" : "#1b4a6c"
+    },
+    {
+      "name" : "Azure Shade 800",
+      "value" : "#457ca3"
+    },
+    {
+      "name" : "Azure Shade 700",
+      "value" : "#779ec5"
+    },
+    {
+      "name" : "Azure Tint 300",
+      "value" : "#d2e0ef"
+    },
+    {
+      "name" : "Azure Tint 200",
+      "value" : "#eaf2fa"
+    },
+    {
+      "name" : "Azure Tint 100",
+      "value" : "#f5faff"
+    },
+    {
+      "name" : "Gold Shade 950",
+      "value" : "#513a14"
+    },
+    {
+      "name" : "Gold Shade 900",
+      "value" : "#81571a"
+    },
+    {
+      "name" : "Gold Shade 800",
+      "value" : "#a87828"
+    },
+    {
+      "name" : "Gold Shade 700",
+      "value" : "#d0a143"
+    },
+    {
+      "name" : "Gold Tint 300",
+      "value" : "#ffeaaa"
+    },
+    {
+      "name" : "Gold Tint 200",
+      "value" : "#fff1c8"
+    },
+    {
+      "name" : "Gold Tint 100",
+      "value" : "#fff8e6"
+    },
+    {
+      "name" : "Tan Shade 950",
+      "value" : "#3a2722"
+    },
+    {
+      "name" : "Tan Shade  900",
+      "value" : "#5d3012"
+    },
+    {
+      "name" : "Tan Shade 800",
+      "value" : "#7b4019"
+    },
+    {
+      "name" : "Tan Shade 700",
+      "value" : "#a85c2a"
+    },
+    {
+      "name" : "Tan Tint 300",
+      "value" : "#edaf86"
+    },
+    {
+      "name" : "Tan Tint 200 ",
+      "value" : "#fad5bc"
+    },
+    {
+      "name" : "Tan Tint 100",
+      "value" : "#ffe8d9"
+    },
+    {
+      "name" : "Tan Tint 50",
+      "value" : "#fff4ee"
+    },
+    {
+      "name" : "Scarlet Shade 950",
+      "value" : "#2b090f"
+    },
+    {
+      "name" : "Scarlet Shade 900",
+      "value" : "#551027"
+    },
+    {
+      "name" : "Scarlet Shade 800",
+      "value" : "#771631"
+    },
+    {
+      "name" : "Scarlet Shade 700",
+      "value" : "#ab233c"
+    },
+    {
+      "name" : "Scarlet Tint 300",
+      "value" : "#f47b7f"
+    },
+    {
+      "name" : "Scarlet Tint 200",
+      "value" : "#fca2a5"
+    },
+    {
+      "name" : "Scarlet Tint 100",
+      "value" : "#ffcccf"
+    },
+    {
+      "name" : "Scarlet Tint 50",
+      "value" : "#ffe9eb"
+    },
+  ]
+}{
+  "Borders" : [
+    {
+      "name" : "No Border",
+      "value" : "0px none"
+    },
+    {
+      "name" : "Solid 1",
+      "value" : "1px solid"
+    },
+  ]
+}{
+  "BorderRadiuses" : [
+    {
+      "name" : "Round",
+      "value" : "99px"
+    },
+  ]
+}{
+  "fonts" : [
+    "default-font" : {
+      "name" : "Default Font",
+      "fontFamily" : "Roboto"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+    "congenial" : {
+      "name" : "Congenial",
+      "fontFamily" : "Congenial"
+    },
+    "nunito-sans" : {
+      "name" : "Nunito Sans",
+      "fontFamily" : "Nunito Sans"
+    },
+  ],
+  "typeStyles" : [
+    "h-1-and-pull-1" : {
+      "name" : "H1 and Pull 1",
+      "fontFamily" : "Congenial",
+      "fontSize" : "61.040000915527344px",
+      "lineHeight" : "71px",
+      "letterSpacing" : "0px",
+    },
+    "h-2" : {
+      "name" : "H2",
+      "fontFamily" : "Congenial",
+      "fontSize" : "48.83000183105469px",
+      "lineHeight" : "58px",
+      "letterSpacing" : "0.1em",
+    },
+    "h-3" : {
+      "name" : "H3",
+      "fontFamily" : "Congenial",
+      "fontSize" : "39.060001373291016px",
+      "lineHeight" : "47px",
+      "letterSpacing" : "0.1em",
+    },
+    "h-4" : {
+      "name" : "H4",
+      "fontFamily" : "Congenial",
+      "fontSize" : "31.25px",
+      "lineHeight" : "38px",
+      "letterSpacing" : "0.1em",
+    },
+    "h-5-and-pull-2" : {
+      "name" : "H5 and Pull 2",
+      "fontFamily" : "Congenial",
+      "fontSize" : "25px",
+      "lineHeight" : "32px",
+      "letterSpacing" : "0.1em",
+    },
+    "h-6" : {
+      "name" : "H6",
+      "fontFamily" : "Congenial",
+      "fontSize" : "20px",
+      "lineHeight" : "26px",
+      "letterSpacing" : "0.1em",
+    },
+    "pull-3" : {
+      "name" : "Pull 3",
+      "fontFamily" : "Nunito Sans",
+      "fontSize" : "12.800000190734863px",
+      "lineHeight" : "18px",
+      "letterSpacing" : "0.1em",
+    },
+    "sub-heading-large" : {
+      "name" : "Sub Heading Large",
+      "fontFamily" : "Nunito Sans",
+      "fontSize" : "20px",
+      "lineHeight" : "26px",
+      "letterSpacing" : "0.1em",
+    },
+    "body-text-large" : {
+      "name" : "Body Text Large",
+      "fontFamily" : "Nunito Sans",
+      "fontSize" : "20px",
+      "lineHeight" : "20px",
+      "letterSpacing" : "0px",
+    },
+    "sub-heading-small" : {
+      "name" : "Sub Heading Small",
+      "fontFamily" : "Nunito Sans",
+      "fontSize" : "16px",
+      "lineHeight" : "22px",
+      "letterSpacing" : "0.1em",
+    },
+    "body-text-small" : {
+      "name" : "Body Text Small",
+      "fontFamily" : "Nunito Sans",
+      "fontSize" : "12.800000190734863px",
+      "lineHeight" : "18px",
+      "letterSpacing" : "0.1em",
+    },
+    "image-caption" : {
+      "name" : "Image Caption",
+      "fontFamily" : "Nunito Sans",
+      "fontSize" : "10.239999771118164px",
+      "lineHeight" : "15px",
+      "letterSpacing" : "0.1em",
+    },
+  ]
+}{
+  "SpacePatterns" : [
+    {
+      "name" : "none",
+      "value" : "0px"
+    },
+    {
+      "name" : "xx-small",
+      "value" : "4px"
+    },
+    {
+      "name" : "x-small",
+      "value" : "8px"
+    },
+    {
+      "name" : "small",
+      "value" : "12px"
+    },
+    {
+      "name" : "regular",
+      "value" : "16px"
+    },
+    {
+      "name" : "large",
+      "value" : "20px"
+    },
+    {
+      "name" : "x-large",
+      "value" : "24px"
+    },
+    {
+      "name" : "xx-large",
+      "value" : "28px"
+    },
+  ]
+}{
+  "durations" : [
+    {
+      "name" : "instant",
+      "duration" : "0"
+    },
+    {
+      "name" : "x-fast",
+      "duration" : "128"
+    },
+    {
+      "name" : "fast",
+      "duration" : "160"
+    },
+    {
+      "name" : "normal",
+      "duration" : "200"
+    },
+    {
+      "name" : "slow",
+      "duration" : "250"
+    },
+    {
+      "name" : "x-slow",
+      "duration" : "313"
+    },
+  ],
+  "easeCurves" : [
+    {
+      "name" : "ease-in",
+      "curve" : {
+        x1 : 0.42,
+        y1 : 0,
+        x2 : 1,
+        y2 : 1
+      }
+    },
+    {
+      "name" : "ease-out",
+      "curve" : {
+        x1 : 0,
+        y1 : 0,
+        x2 : 0.58,
+        y2 : 1
+      }
+    },
+    {
+      "name" : "ease-in-out",
+      "curve" : {
+        x1 : 0.42,
+        y1 : 0,
+        x2 : 0.58,
+        y2 : 1
+      }
+    },
+  ],
+  "transitions" : [
+  ]
+}

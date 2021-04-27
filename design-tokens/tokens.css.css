@@ -1,0 +1,196 @@
+/* colors */
+:root {
+  --black: #000000;
+  --white: #ffffff;
+  --ocho-navy: #384483;
+  --ocho-blue: #5977b3;
+  --ocho-azure: #b4cae0;
+  --ocho-gold: #f7d475;
+  --ocho-tan: #d48049;
+  --ocho-scarlet: #de3e47;
+  --neutral-shade-900: #0d0d0c;
+  --neutral-shade-900: #0d0d0c;
+  --neutral-shade-800: #3b3a39;
+  --neutral-shade-700: #696866;
+  --neutral-tint-300: #9c9996;
+  --neutral-tint-200: #c5c2be;
+  --neutral-tint-200: #c5c2be;
+  --neutral-tint-100: #e9e4dd;
+  --neutral-tint-50: #f6f5f4;
+  --navy-shade-950: #080420;
+  --navy-shade-900: #0f073f;
+  --navy-shade-800: #1d1b56;
+  --navy-shade-700: #2a306c;
+  --navy-tint-300: #707cb2;
+  --navy-tint-200: #b0b8dd;
+  --navy-tint-100: #e2e5f3;
+  --navy-tint-50: #f2f5ff;
+  --blue-shade-950: #081225;
+  --blue-shade-900: #10244a;
+  --blue-shade-800: #1d386d;
+  --blue-shade-700: #335290;
+  --blue-tint-300: #8fa7d6;
+  --blue-tint-200: #beceee;
+  --blue-tint-100: #e5eeff;
+  --azure-shade-950: #112e43;
+  --azure-shade-900: #1b4a6c;
+  --azure-shade-800: #457ca3;
+  --azure-shade-700: #779ec5;
+  --azure-tint-300: #d2e0ef;
+  --azure-tint-200: #eaf2fa;
+  --azure-tint-100: #f5faff;
+  --gold-shade-950: #513a14;
+  --gold-shade-900: #81571a;
+  --gold-shade-800: #a87828;
+  --gold-shade-700: #d0a143;
+  --gold-tint-300: #ffeaaa;
+  --gold-tint-200: #fff1c8;
+  --gold-tint-100: #fff8e6;
+  --tan-shade-950: #3a2722;
+  --tan-shade-900: #5d3012;
+  --tan-shade-800: #7b4019;
+  --tan-shade-700: #a85c2a;
+  --tan-tint-300: #edaf86;
+  --tan-tint-200: #fad5bc;
+  --tan-tint-100: #ffe8d9;
+  --tan-tint-50: #fff4ee;
+  --scarlet-shade-950: #2b090f;
+  --scarlet-shade-900: #551027;
+  --scarlet-shade-800: #771631;
+  --scarlet-shade-700: #ab233c;
+  --scarlet-tint-300: #f47b7f;
+  --scarlet-tint-200: #fca2a5;
+  --scarlet-tint-100: #ffcccf;
+  --scarlet-tint-50: #ffe9eb;
+}
+/* Borders */
+:root {
+  --no-border: 0px none;
+  --solid-1: 1px solid;
+}
+/* BorderRadiuses */
+:root {
+  --round: 99px;
+}
+/* fonts */
+:root {        
+--default-font: Roboto;
+--nunito-sans: Nunito Sans;
+--congenial: Congenial;
+--congenial: Congenial;
+--congenial: Congenial;
+--congenial: Congenial;
+--congenial: Congenial;
+--nunito-sans: Nunito Sans;
+--nunito-sans: Nunito Sans;
+--congenial: Congenial;
+--congenial: Congenial;
+--nunito-sans: Nunito Sans;
+--nunito-sans: Nunito Sans;
+--nunito-sans: Nunito Sans;
+--nunito-sans: Nunito Sans;
+--congenial: Congenial;
+--nunito-sans: Nunito Sans;
+}
+/* text styles*/
+.h-1-and-pull-1 {
+  font-family : var(--congenial);
+  font-size : 61.040000915527344px;
+  line-height: 71px;
+  letter-spacing : 0px;
+}
+.h-2 {
+  font-family : var(--congenial);
+  font-size : 48.83000183105469px;
+  line-height: 58px;
+  letter-spacing : 0.1em;
+}
+.h-3 {
+  font-family : var(--congenial);
+  font-size : 39.060001373291016px;
+  line-height: 47px;
+  letter-spacing : 0.1em;
+}
+.h-4 {
+  font-family : var(--congenial);
+  font-size : 31.25px;
+  line-height: 38px;
+  letter-spacing : 0.1em;
+}
+.h-5-and-pull-2 {
+  font-family : var(--congenial);
+  font-size : 25px;
+  line-height: 32px;
+  letter-spacing : 0.1em;
+}
+.h-6 {
+  font-family : var(--congenial);
+  font-size : 20px;
+  line-height: 26px;
+  letter-spacing : 0.1em;
+}
+.pull-3 {
+  font-family : var(--nunito-sans);
+  font-size : 12.800000190734863px;
+  line-height: 18px;
+  letter-spacing : 0.1em;
+}
+.sub-heading-large {
+  font-family : var(--nunito-sans);
+  font-size : 20px;
+  line-height: 26px;
+  letter-spacing : 0.1em;
+}
+.body-text-large {
+  font-family : var(--nunito-sans);
+  font-size : 20px;
+  line-height: 20px;
+  letter-spacing : 0px;
+}
+.sub-heading-small {
+  font-family : var(--nunito-sans);
+  font-size : 16px;
+  line-height: 22px;
+  letter-spacing : 0.1em;
+}
+.body-text-small {
+  font-family : var(--nunito-sans);
+  font-size : 12.800000190734863px;
+  line-height: 18px;
+  letter-spacing : 0.1em;
+}
+.image-caption {
+  font-family : var(--nunito-sans);
+  font-size : 10.239999771118164px;
+  line-height: 15px;
+  letter-spacing : 0.1em;
+}
+/* SpacePatterns */
+:root {
+  --none: 0px;
+  --xx-small: 4px;
+  --x-small: 8px;
+  --small: 12px;
+  --regular: 16px;
+  --large: 20px;
+  --x-large: 24px;
+  --xx-large: 28px;
+}
+/* durations */
+:root {
+  --instant: 0;
+  --x-fast: 128;
+  --fast: 160;
+  --normal: 200;
+  --slow: 250;
+  --x-slow: 313;
+}
+/* ease curves*/
+:root {
+  --ease-in: cubic-bezier(0.42, 0, 1, 1);
+  --ease-out: cubic-bezier(0, 0, 0.58, 1);
+  --ease-in-out: cubic-bezier(0.42, 0, 0.58, 1);
+}
+/* transitions*/
+:root {
+}
